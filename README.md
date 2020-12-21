@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on BeiJing, China
-- 🌱 I’m currently learning golang,jenkins
-- 💬 Ask me about :Devops,Pipline,groovy,go,docker,kubernetes,isito,ansible,shell
+- 🌱 I’m currently learning Cloud native
+- 💬 Ask me about :Devops,Jenkins,Pipline,groovy,go,docker,kubernetes,isito,ansible,shell
 - 💬 Ask me about system :centos,redhart,ubantu,deepin,uos
 - 📫 How to reach me: 200922702@qq.com or at my [blog](https://www.zhangpengxuan.com)
 
