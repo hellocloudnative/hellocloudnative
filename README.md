@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on BeiJing, 🇨🇳 China
+- 🔭 I’m currently working on US。
 - 🌱 I’m currently learning Cloud native
 - 💬 Ask me about :Devops,Jenkins,Pipline,groovy,go,docker,kubernetes,isito,ansible,shell
 - 💬 Ask me about system :centos,ubantu,deepin,uos
