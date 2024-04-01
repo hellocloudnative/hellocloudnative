@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on US。
+- 🔭 I’m currently working on China。
 - 🌱 I’m currently learning Cloud native
-- 💬 Ask me about :Devops,Jenkins,Pipline,groovy,go,docker,kubernetes,isito,ansible,shell
-- 💬 Ask me about system :centos,ubantu,deepin,uos
-- 📫 How to reach me: 200922702@qq.com or at my [blog](https://hellocloudnative.io)
+- 💬 Ask me about go,docker,kubernetes,kubevirt,rancher,harverster,Devops,Jenkins,Pipline,groovy,isito,ansible,shell
+- 💬 Ask me about system :centos,ubantu,kylin,deepin,uos
+- 📫 How to reach me: 200922702@qq.com or at my [blog](https://hellocloudnative.github.io)
 
 I'm looking for [GitHub sponsors](https://github.com/hellocloudnative).
 
