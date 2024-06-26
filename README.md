@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently working on China。
-- 🌱 I’m currently learning Cloud native
 - 💬 Ask me about :go,docker,kubernetes,kubevirt,rancher,harverster,Devops,Jenkins,Pipline,groovy
 - 💬 Ask me about system :centos,ubantu,kylin,deepin,uos
 - 📫 How to reach me: 200922702@qq.com or at my [blog](https://hellocloudnative.github.io)
